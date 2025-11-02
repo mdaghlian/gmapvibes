@@ -1,2 +1,3 @@
 vibe_store/*
 *.egg-info
+*__pycache__*

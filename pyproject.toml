@@ -13,7 +13,11 @@ dependencies = [
     "matplotlib",
     "seaborn",
     "pandas",
-    "googlemaps",
+    "geopy",
+    "bs4",
+    "ddgs",
+    "requests",
+    "sentence-transformers",
 ]
 readme = "README.md"
 license = "GPL-3.0-only"
